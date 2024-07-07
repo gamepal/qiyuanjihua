@@ -3,3 +3,6 @@ https://blog.csdn.net/xzwwjl1314/article/details/129664731?spm=1001.2101.3001.66
 
 
 https://dev.to/karthiknarayan/setting-up-nginx-to-serve-static-content-on-any-linux-based-server-1185
+
+
+chmod -R 777
